@@ -1,0 +1,15 @@
+{
+  "name": "whatsapp-bot-2026",
+  "version": "2.0.0",
+  "description": "Bot con Gemini 2.0 Flash",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@google/generative-ai": "^0.21.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^9.0.0"
+  }
+}
